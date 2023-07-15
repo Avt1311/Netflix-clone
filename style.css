@@ -26,6 +26,7 @@ nav{
 .logo{
     width: 150px;
     cursor: pointer;
+    margin-left: 160px;
 }
 nav button{
     border: 0;
@@ -35,17 +36,21 @@ nav button{
     padding: 7px 20px;
     font-size: 12px;
     border-radius: 4px;
-    margin-left: 10px;
+    margin-left: 20px;
     cursor: pointer;
 
 }
 .language-btn{
     display: inline-flex;
     align-items: center;
-    background: transparent;
+    background: black;
     border: 1px solid #fff;
     padding: 7px 10px;
     color: #fff;
+    /* margin-right: px; */
+}
+.log{
+    margin-right: 160px;
 }
 /* .language-btn img{
 
