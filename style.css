@@ -26,7 +26,7 @@ nav{
 .logo{
     width: 150px;
     cursor: pointer;
-    margin-left: 160px;
+  
 }
 nav button{
     border: 0;
@@ -49,9 +49,9 @@ nav button{
     color: #fff;
     /* margin-right: px; */
 }
-.log{
-    margin-right: 160px;
-}
+/* .log{
+    /* margin-right: 160px; */
+
 /* .language-btn img{
 
     width: 10px;
